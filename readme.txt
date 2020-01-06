@@ -1,8 +1,9 @@
-Thank you for using our template!
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
+# MAC Sponsorship Site
+------------------------
+This repository is a simple HTML site made for companies to sponsor in a more convenient manner via PayPal. 
 
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
+Please be aware this is not the official site.
 
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+-----------------
+Note this was made by colorlib. For more awesome templates please visit https://colorlib.com/wp/templates/
